@@ -11,49 +11,49 @@ This dashboard uses real-world, live data to display current and forecasted weat
 ### 🌬️ Wind speed, humidity, pressure & visibility
 ### ☀️ UV index & precipitation details
 ### 🧪 Air Quality Index (AQI) with pollutant breakdown
-PM2.5, PM10, CO, NO₂, SO₂, O₃
+___PM2.5, PM10, CO, NO₂, SO₂, O₃___
 ### 📊 Modern, user-friendly dashboard design
 
 ## 🔗 Data Source
-Weather API (Free Tier) <a href="https://www.weatherapi.com/">Real_Dataset</a>
-Provides real-time and forecast weather data
-Includes air quality and atmospheric parameters
-Publicly available and widely used for learning and projects
-#### 📌 All data shown in the dashboard is real-time or near real-time, not dummy or static data.
+-- Weather API (Free Tier) <a href="https://www.weatherapi.com/">Real_Dataset</a>
+-- Provides real-time and forecast weather data
+-- Includes air quality and atmospheric parameters
+-- Publicly available and widely used for learning and projects
+**📌 All data shown in the dashboard is real-time or near real-time, not dummy or static data.**
 
 ## 🛠️ Tools & Technologies Used
-Weather API (Free Version)
-Power BI / Dashboard Tool
-Data Cleaning & Transformation
-Data Visualization & UI Design
+-- Weather API (Free Version)
+-- Power BI / Dashboard Tool
+-- Data Cleaning & Transformation
+-- Data Visualization & UI Design
 
 ## 📈 Key Insights
-Enables monitoring of daily and weekly weather patterns
-Clearly communicates air quality health levels
-Supports planning outdoor activities based on AQI and forecasts
-Demonstrates real-world data handling and dashboard development skills
+-- Enables monitoring of daily and weekly weather patterns
+-- Clearly communicates air quality health levels
+-- Supports planning outdoor activities based on AQI and forecasts
+-- Demonstrates real-world data handling and dashboard development skills
 
 ## 🎯 Learning Outcomes
-Working with live API-based datasets
-Handling real-time environmental data
-Designing informative and intuitive dashboards
-Understanding air quality indicators and health impact
+-- Working with live API-based datasets
+-- Handling real-time environmental data
+-- Designing informative and intuitive dashboards
+-- Understanding air quality indicators and health impact
 
 ## 📂 Project Structure
 ### 📁 Smart-Weather-Air-Quality-Dashboard
- ├── 📄 Dashboard Screenshot
- ├── 📄 API Integration / Data Source Info
- ├── 📄 Documentation
- └── 📄 README.md
+ -- ├── 📄 Dashboard Screenshot
+ -- ├── 📄 API Integration / Data Source Info
+ -- ├── 📄 Documentation
+ -- └── 📄 README.md
  
  ## 📸 Dashboard Preview
 <img width="1478" height="755" alt="Smart Weather Air Quality Monitoring Dashboard" src="https://github.com/Prince20041/Smart-Weather-Air-Quality-Monitoring-Dashboard/blob/main/Smart%20Weather%20%26%20Air%20Quality%20Monitoring%20Dashboard.png" />
 
 
 ## 🧑‍💻 Author
-#### Prince Varshney
-Aspiring Data Analyst | Excel | SQL | Power BI | Python
-📍 India
+___Prince Varshney___
+_Aspiring Data Analyst | Excel | SQL | Power BI | Python_
+- 📍 India
 
 ## ⭐ Acknowledgements
 Weather data powered by a Free Weather API
