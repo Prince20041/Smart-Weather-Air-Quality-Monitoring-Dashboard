@@ -51,9 +51,9 @@ ___PM2.5, PM10, CO, NO₂, SO₂, O₃___
 
 
 ## 🧑‍💻 Author
-___Prince Varshney___
-- _Aspiring Data Analyst | Excel | SQL | Power BI | Python_
-#### 📍 India
+#### _Prince Varshney_
+##### _Aspiring Data Analyst | Excel | SQL | Power BI | Python_
+##### 📍 India
 
 ## ⭐ Acknowledgements
 - Weather data powered by a Free Weather API
