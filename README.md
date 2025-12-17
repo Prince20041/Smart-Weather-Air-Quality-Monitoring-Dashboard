@@ -1,8 +1,8 @@
-🌦️ Smart Weather & Air Quality Monitoring Dashboard
+#🌦️ Smart Weather & Air Quality Monitoring Dashboard
 
 An interactive dashboard that delivers real-time weather insights and air quality analysis in a visually intuitive format. This project combines environmental data with clean design to help users quickly understand current conditions, forecasts, and air quality health indicators.
 
-📌 Project Overview
+##📌 Project Overview
 
 This dashboard provides a comprehensive view of:
 
@@ -18,23 +18,23 @@ Air Quality Index (AQI) and pollutant levels
 
 The goal of this project is to transform raw environmental data into meaningful insights through effective data visualization.
 
-🚀 Features
+##🚀 Features
 
-🌡️ Real-time temperature & weather status
+###🌡️ Real-time temperature & weather status
 
-📆 Multi-day weather forecast visualization
+###📆 Multi-day weather forecast visualization
 
-🌅 Sunrise & sunset timing display
+###🌅 Sunrise & sunset timing display
 
-🌬️ Wind speed, humidity, pressure & visibility
+###🌬️ Wind speed, humidity, pressure & visibility
 
-☀️ UV index & precipitation details
+###☀️ UV index & precipitation details
 
-🧪 Air Quality monitoring (AQI, PM2.5, PM10, CO, NO₂, SO₂, O₃)
+###🧪 Air Quality monitoring (AQI, PM2.5, PM10, CO, NO₂, SO₂, O₃)
 
-📊 Clean, modern, and interactive UI
+###📊 Clean, modern, and interactive UI
 
-🛠️ Tools & Technologies Used
+##🛠️ Tools & Technologies Used
 
 Data Visualization Tool (Power BI / Dashboard UI)
 
@@ -46,7 +46,7 @@ UI-focused dashboard design principles
 
 (Update tools based on what you actually used)
 
-📈 Key Insights
+##📈 Key Insights
 
 Helps users identify daily and weekly weather trends
 
@@ -56,14 +56,14 @@ Supports informed decisions related to outdoor activities
 
 Demonstrates real-world dashboard design and analytical thinking
 
-📂 Project Structure
+##📂 Project Structure
 📁 Weather-Air-Quality-Dashboard
  ├── 📄 Dashboard Screenshot
  ├── 📄 Dataset / API Source
  ├── 📄 Documentation
  └── 📄 README.md
 
-🎯 Learning Outcomes
+##🎯 Learning Outcomes
 
 Hands-on experience with real-world environmental data
 
@@ -73,14 +73,16 @@ Understanding of AQI standards and pollutants
 
 Enhanced dashboard storytelling and UI design skills
 
-🧑‍💻 Author
+##🧑‍💻 Author
 
-Prince Varshney
+####Prince Varshney
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 📍 India
 
-🔗 Preview
+##🔗 Preview
 
-📸 Dashboard preview available above
+📸 Dashboard preview
+<img width="1478" height="755" alt="Live Weather Analysis" src= "D:\accio job\Project\New folder"/>
+
 
 ⭐ If you like this project, don’t forget to star the repository!
